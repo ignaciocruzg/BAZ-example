@@ -68,6 +68,3 @@ if __name__ == '__main__':
     print('Rocky: ', dog_dic['Rocky'])
     print('Sparky: ', dog_dic['Sparky'])
     print(list(dog_dic.keys()))
-
-# Comment
-# Comment 2
